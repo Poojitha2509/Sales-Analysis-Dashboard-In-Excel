@@ -11,7 +11,7 @@ Design and develop an interactive Sales Analysis Dashboard to provide real-time 
 - Merged all pivot tables into one dashboard and applied slicers to make dynamic.
 - At Last Exported the Dashboard.
 # Dashboard
-![Loan Prediction Dashboard](https://github.com/user-attachments/assets/53ab7178-53ea-4798-b5c6-c5eebade25e8)
+![Sales Analysis Dashboard in Excel](https://github.com/user-attachments/assets/da82b15f-7c69-4e7d-ae71-448b199753bd)
 # Project Insight
 - The Loan Approved Rate is 62% and Rejected Rate is 38%.
 - Here Graduates are 50% and non-graduates are 50%.
