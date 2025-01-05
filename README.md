@@ -20,4 +20,4 @@ Design and develop an interactive Sales Analysis Dashboard to provide real-time 
 The Sales Analysis Dashboard helps us understand sales performance and make informed decisions. With this, we can:
 - See how sales are doing
 - Learn about customer behavior
-This dashboard helps us improve sales, revenue and leading to better business results.
+- This dashboard helps us improve sales, revenue and leading to better business results.
