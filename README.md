@@ -5,9 +5,11 @@ Design and develop an interactive Sales Analysis Dashboard to provide real-time 
 - <a href="https://github.com/Poojitha2509/Sales-Analysis-Dashboard-In-Excel/blob/main/Sales%20Analysis%20Report.xlsx">Sales Analysis Dataset</a>
 # Process
 - Import the Dataset.
-- Created Visualization Charts.
-- Performed Some Calculations with Calculated Field.
-- At Last Import them into Dashboard.
+- Verify data for any missing values.
+- Make sure data is consistent and clean with respect to data type,date format and values used.
+- Created Pivot tables.
+- Merged all pivot tables into one dashboard and applied slicers to make dynamic.
+- At Last Exported the Dashboard.
 # Dashboard
 ![Loan Prediction Dashboard](https://github.com/user-attachments/assets/53ab7178-53ea-4798-b5c6-c5eebade25e8)
 # Project Insight
