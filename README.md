@@ -13,10 +13,11 @@ Design and develop an interactive Sales Analysis Dashboard to provide real-time 
 # Dashboard
 ![Sales Analysis Dashboard in Excel](https://github.com/user-attachments/assets/da82b15f-7c69-4e7d-ae71-448b199753bd)
 # Project Insight
-- The Loan Approved Rate is 62% and Rejected Rate is 38%.
-- Here Graduates are 50% and non-graduates are 50%.
-- The Highest Loan Term of the applicants is 20 years.
-- Luxury Assets of the applicants are higher when compared to other assets.
+- Wholesale Channel has the highest revenue when compared to other channels.
+- NZD has the highest currency code.
+- Wholesale order quantity is more, when compared to others
 # Conclusion
-- We Can Identify key factors influencing loan approvals.
-- We Can Predict loan approval probabilities with high accuracy.
+The Sales Analysis Dashboard helps us understand sales performance and make informed decisions. With this, we can:
+- See how sales are doing
+- Learn about customer behavior
+This dashboard helps us improve sales, revenue and leading to better business results.
