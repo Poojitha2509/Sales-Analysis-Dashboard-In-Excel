@@ -2,7 +2,7 @@
 ## Project Objective
 Design and develop an interactive Sales Analysis Dashboard to provide real-time insights into sales performance.
 # Dataset Used
-- <a href="https://github.com/Poojitha2509/Loan-Approval-Prediction-In-Tableau/blob/main/loan_approval_dataset.csv">Loan Approval Dataset</a>
+- <a href="https://github.com/Poojitha2509/Sales-Analysis-Dashboard-In-Excel/blob/main/Sales%20Analysis%20Report.xlsx">Sales Analysis Dataset</a>
 # Process
 - Import the Dataset.
 - Created Visualization Charts.
